@@ -1,0 +1,22 @@
+
+<?xml version="1.0" enconding="ISO-8859-1"?>
+<pais>
+    <nome> Brasil </nome>
+    <idioma> Português </idioma>
+    <religiao> Indefinido </religiao>
+    <moeda nome="Real" símbolo="R$" />
+    <populacao> 190 milhões </populacao>
+    <geografia>
+        <clima> tropical </clima>
+        <costa> 7367 KM </costa>
+        <pico nome="Neblina" altitude="3014" />
+    </geografia>
+    <estado>
+        <estado nome="Minas Gerais" capital="Belo Horizonte" />
+        <estado nome="Bahia" capital="Salvador" />
+        <estado nome="São Paulo" capital="São Paulo" />
+        <estado nome="Rio de Janeiro" capital="Rio de Janeiro" />
+        <estado nome="Paraná" capital="Curitiba" />
+        <estado nome="Mato Grosso" capital="Cuiabá" />
+    </estado>
+</pais>
